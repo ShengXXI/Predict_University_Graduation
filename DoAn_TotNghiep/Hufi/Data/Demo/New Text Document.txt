@@ -1,0 +1,23 @@
+﻿how to ﬁnding more efﬁcient methods for the multiclass case
+https://www.analyticsvidhya.com/blog/2017/08/introduction-to-multi-label-classification/
+
+https://scikit-learn.org/stable/auto_examples/plot_multilabel.html#sphx-glr-auto-examples-plot-multilabel-py
+https://scikit-learn.org/stable/modules/generated/sklearn.multiclass.OneVsRestClassifier.html
+
+https://www.mathworks.com/help/stats/classificationecoc-class.html
+https://www.mathworks.com/help/stats/classificationecoc-class.html#bue4w15
+https://www.mathworks.com/help/stats/fitcecoc.html
+
+https://link.springer.com/article/10.1007/s10844-017-0446-7
+https://www.nature.com/articles/s41598-018-27683-9
+
+how to determining the best kernel for a given data set
+https://www.kdnuggets.com/2016/06/select-support-vector-machine-kernels.html
+https://blog.statsbot.co/support-vector-machines-tutorial-c1618e635e93
+https://www.quora.com/How-do-I-select-SVM-kernels
+https://www.nature.com/articles/s41598-018-20121-w
+https://www.researchgate.net/post/How_can_one_decide_on_using_a_linear_or_non_linear_classifier_for_the_dataset
+
+
+Các phần mềm học máy=> dự án
+https://www.kaggle.com/general/37924
